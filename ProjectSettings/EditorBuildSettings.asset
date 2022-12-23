@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Showroom.unity
+    guid: 153cd73c5fa33ba49a935c8920cabf0e
+  - enabled: 1
+    path: Assets/Scenes/Showroom_Lighting_Theme_Luxury.unity
+    guid: a0e16637660a9434a8c27a19818823dc
+  - enabled: 1
+    path: Assets/Scenes/Showroom_Lighting_Theme_PhotoStudio.unity
+    guid: fe0a3112c0d6e68439af4fdf75141a6f
+  - enabled: 1
+    path: Assets/Scenes/Showroom_Lighting_Theme_LightInstallation.unity
+    guid: a5ea2f9a519063b4f99da59c31b46501
+  m_configObjects: {}

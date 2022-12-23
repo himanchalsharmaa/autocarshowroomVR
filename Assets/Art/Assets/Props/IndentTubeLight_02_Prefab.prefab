@@ -1,0 +1,156 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &7897093232475668430
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 268246502493121784, guid: a1adecde28bf435448ea3f74e7b62d90,
+        type: 3}
+      propertyPath: m_Intensity
+      value: 754.48267
+      objectReference: {fileID: 0}
+    - target: {fileID: 268246502493121784, guid: a1adecde28bf435448ea3f74e7b62d90,
+        type: 3}
+      propertyPath: m_BoundingSphereOverride.w
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 268246502493121784, guid: a1adecde28bf435448ea3f74e7b62d90,
+        type: 3}
+      propertyPath: m_Range
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 2632494945598561349, guid: a1adecde28bf435448ea3f74e7b62d90,
+        type: 3}
+      propertyPath: m_Intensity
+      value: 1280
+      objectReference: {fileID: 0}
+    - target: {fileID: 2632494945598561349, guid: a1adecde28bf435448ea3f74e7b62d90,
+        type: 3}
+      propertyPath: showAdditionalSettings
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 2632494945598561349, guid: a1adecde28bf435448ea3f74e7b62d90,
+        type: 3}
+      propertyPath: m_AreaLightShadowCone
+      value: 135
+      objectReference: {fileID: 0}
+    - target: {fileID: 2632494945598561349, guid: a1adecde28bf435448ea3f74e7b62d90,
+        type: 3}
+      propertyPath: m_ShadowResolution.m_Override
+      value: 1024
+      objectReference: {fileID: 0}
+    - target: {fileID: 2632494945598561349, guid: a1adecde28bf435448ea3f74e7b62d90,
+        type: 3}
+      propertyPath: m_EvsmLightLeakBias
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2632494945598561349, guid: a1adecde28bf435448ea3f74e7b62d90,
+        type: 3}
+      propertyPath: m_EvsmBlurPasses
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2632494945598561349, guid: a1adecde28bf435448ea3f74e7b62d90,
+        type: 3}
+      propertyPath: m_PenumbraTint
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2632494945598561349, guid: a1adecde28bf435448ea3f74e7b62d90,
+        type: 3}
+      propertyPath: m_ShapeWidth
+      value: 6.8224964
+      objectReference: {fileID: 0}
+    - target: {fileID: 2632494945598561349, guid: a1adecde28bf435448ea3f74e7b62d90,
+        type: 3}
+      propertyPath: m_ShadowNearPlane
+      value: 0.02
+      objectReference: {fileID: 0}
+    - target: {fileID: 3327374607708075022, guid: a1adecde28bf435448ea3f74e7b62d90,
+        type: 3}
+      propertyPath: m_Name
+      value: Area_1280lm_Warm_LGT
+      objectReference: {fileID: 0}
+    - target: {fileID: 3327374607708075022, guid: a1adecde28bf435448ea3f74e7b62d90,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7751022461054501948, guid: a1adecde28bf435448ea3f74e7b62d90,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 091608b2aa00d65488cb438678411678, type: 2}
+    - target: {fileID: 8111499341326575081, guid: a1adecde28bf435448ea3f74e7b62d90,
+        type: 3}
+      propertyPath: m_Name
+      value: IndentTubeLight_02_Prefab
+      objectReference: {fileID: 0}
+    - target: {fileID: 8111499341326575081, guid: a1adecde28bf435448ea3f74e7b62d90,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8924451110104973139, guid: a1adecde28bf435448ea3f74e7b62d90,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 15.503
+      objectReference: {fileID: 0}
+    - target: {fileID: 8924451110104973139, guid: a1adecde28bf435448ea3f74e7b62d90,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 5.052
+      objectReference: {fileID: 0}
+    - target: {fileID: 8924451110104973139, guid: a1adecde28bf435448ea3f74e7b62d90,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -6.775
+      objectReference: {fileID: 0}
+    - target: {fileID: 8924451110104973139, guid: a1adecde28bf435448ea3f74e7b62d90,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8924451110104973139, guid: a1adecde28bf435448ea3f74e7b62d90,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.00000004371139
+      objectReference: {fileID: 0}
+    - target: {fileID: 8924451110104973139, guid: a1adecde28bf435448ea3f74e7b62d90,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.00000004371139
+      objectReference: {fileID: 0}
+    - target: {fileID: 8924451110104973139, guid: a1adecde28bf435448ea3f74e7b62d90,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1.9106855e-15
+      objectReference: {fileID: 0}
+    - target: {fileID: 8924451110104973139, guid: a1adecde28bf435448ea3f74e7b62d90,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8924451110104973139, guid: a1adecde28bf435448ea3f74e7b62d90,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -202.177
+      objectReference: {fileID: 0}
+    - target: {fileID: 8924451110104973139, guid: a1adecde28bf435448ea3f74e7b62d90,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -0.000015258789
+      objectReference: {fileID: 0}
+    - target: {fileID: 8924451110104973139, guid: a1adecde28bf435448ea3f74e7b62d90,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -0.000015258789
+      objectReference: {fileID: 0}
+    - target: {fileID: 8924451110104973139, guid: a1adecde28bf435448ea3f74e7b62d90,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 2.25
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: a1adecde28bf435448ea3f74e7b62d90, type: 3}

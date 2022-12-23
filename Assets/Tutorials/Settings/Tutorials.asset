@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89305aa391d1c5141bbe1628d930a2c5, type: 3}
+  m_Name: Tutorials
+  m_EditorClassIdentifier: 
+  HeaderBackground: {fileID: 2800000, guid: c6c9d42c227996044a408dfd847c71fe, type: 3}
+  Title:
+    m_Untranslated: UI Settings
+  ProjectName:
+    m_Untranslated: Auto Showroom Sample Template (Beta)
+  Description:
+    m_Untranslated: Showroom Lighting
+  ProjectLayout: {fileID: 102900000, guid: d003475238ec230468bf2cc5ebe37071, type: 3}
+  Sections:
+  - OrderInView: 0
+    Heading:
+      m_Untranslated: Welcome
+    Text:
+      m_Untranslated: About the project
+    LinkText: 
+    Url: 
+    AuthorizedUrl: 0
+    Image: {fileID: 2800000, guid: 1299a7d014445a248b7a540c5ff59772, type: 3}
+    Tutorial: {fileID: 11400000, guid: f8d7329b0d8f21146b046fb6b735fd52, type: 2}
+  - OrderInView: 2
+    Heading:
+      m_Untranslated: Performance
+    Text:
+      m_Untranslated: Adjust quality settings
+    LinkText: 
+    Url: 
+    AuthorizedUrl: 0
+    Image: {fileID: 2800000, guid: 244d4d7d18130e740a543b01440ee4b7, type: 3}
+    Tutorial: {fileID: 11400000, guid: db752244a9100b346a91997b05f41fcc, type: 2}
+  - OrderInView: 4
+    Heading:
+      m_Untranslated: Lightmap settings
+    Text:
+      m_Untranslated: Control scene lighting
+    LinkText: 
+    Url: 
+    AuthorizedUrl: 0
+    Image: {fileID: 2800000, guid: 438ab1e1464c9ce4e98f547991af7f66, type: 3}
+    Tutorial: {fileID: 11400000, guid: 92f3927d02508bc4fbd18015318c420b, type: 2}
+  - OrderInView: 6
+    Heading:
+      m_Untranslated: UI Controls
+    Text:
+      m_Untranslated: Interactive controls
+    LinkText: 
+    Url: 
+    AuthorizedUrl: 0
+    Image: {fileID: 2800000, guid: cf16fe30ee2f3644e82b3b3e1419c159, type: 3}
+    Tutorial: {fileID: 11400000, guid: 8b936948df968634bb372c6b87269b7a, type: 2}

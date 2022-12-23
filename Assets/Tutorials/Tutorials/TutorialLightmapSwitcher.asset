@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f107dc6d4c984c45bdafd3bb15f98f0, type: 3}
+  m_Name: TutorialLightmapSwitcher
+  m_EditorClassIdentifier: 
+  TutorialTitle:
+    m_Untranslated: Auto Showroom Lightmap Settings
+  m_TutorialTitle: 
+  m_LessonId: 70003
+  m_Version: 1
+  m_Scene: {fileID: 102900000, guid: 153cd73c5fa33ba49a935c8920cabf0e, type: 3}
+  m_DefaultSceneCameraSettings:
+    m_CameraMode: 1
+    m_FocusMode: 0
+    m_Orthographic: 0
+    m_Size: 0.1
+    m_Pivot: {x: 5, y: 1.3208559, z: 0}
+    m_Rotation: {x: -0.000000009133679, y: -0.70710677, z: 0.0000001145008, w: 0.70710677}
+    m_FrameObject:
+      m_SceneGuid: 
+      m_GameObjectGuid: 
+      m_SerializedComponentType:
+        m_TypeName: 
+      m_ComponentIndex: 0
+      m_AssetObject: {fileID: 0}
+      m_Prefab: {fileID: 0}
+    m_Enabled: 1
+  m_ExitBehavior: 1
+  m_SkipTutorialBehavior: 0
+  m_AssetSelectedOnExit: {fileID: 11400000, guid: 10a79f531862e7f4b93af75c5514fd3c,
+    type: 2}
+  m_WelcomePage: {fileID: 11400000, guid: e6f610883b859df4f80f156339250511, type: 2}
+  m_CompletedPage: {fileID: 11400000, guid: e6f610883b859df4f80f156339250511, type: 2}
+  m_WindowLayout: {fileID: 102900000, guid: d003475238ec230468bf2cc5ebe37071, type: 3}
+  m_Pages:
+    m_Items:
+    - {fileID: 11400000, guid: 9c2a4472d7b3fdb40a08a629ea5f3438, type: 2}
+    - {fileID: 11400000, guid: 52972b3d494ebf949a4246542a4de9cc, type: 2}
+    - {fileID: 11400000, guid: 6b0395b4c606d824c81288ed714cc44a, type: 2}
+    - {fileID: 11400000, guid: 869accea7c3fab54390a225efdf68f67, type: 2}
+    - {fileID: 11400000, guid: 7e05f4d01e25a044d8d40abefb560562, type: 2}
+    - {fileID: 11400000, guid: 9d2acbe4d214e4049b677e26e283a757, type: 2}
+    - {fileID: 11400000, guid: c441d8789149c1040ba7de3f0cdff61f, type: 2}

@@ -1,0 +1,19 @@
+{
+    "name": "LightControl",
+    "references": [
+        "GUID:dca86c3434c38674a865b8fad7a81c91",
+        "GUID:a7ee5f2dd4e86422d9491fd586ffe6f5",
+        "GUID:38d101f0d6fc42779c23e0333ade11b5"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

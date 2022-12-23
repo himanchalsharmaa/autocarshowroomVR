@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 87edaa385191f4e43ac1e2831a02159f, type: 3}
+  m_Name: CinemachineLensPresets
+  m_EditorClassIdentifier: 
+  m_Presets:
+  - m_Name: 35mm
+    m_FieldOfView: 27
+  m_PhysicalPresets:
+  - m_Name: 35mm
+    m_FocalLength: 35
+    LensShift: {x: 0, y: 0}
+    Iso: 200
+    ShutterSpeed: 125
+    Aperture: 8
+    BladeCount: 6
+    Curvature: {x: 2, y: 11}
+    BarrelClipping: 0.25
+    Anamorphism: 0
+  - m_Name: 50mm
+    m_FocalLength: 50
+    LensShift: {x: 0, y: 0}
+    Iso: 200
+    ShutterSpeed: 125
+    Aperture: 4
+    BladeCount: 6
+    Curvature: {x: 2, y: 11}
+    BarrelClipping: 0.25
+    Anamorphism: 0
+  - m_Name: 105mm
+    m_FocalLength: 105
+    LensShift: {x: 0, y: 0}
+    Iso: 200
+    ShutterSpeed: 125
+    Aperture: 2.8
+    BladeCount: 6
+    Curvature: {x: 2, y: 11}
+    BarrelClipping: 0.25
+    Anamorphism: 0

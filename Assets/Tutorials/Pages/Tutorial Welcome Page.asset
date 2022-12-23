@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b0885f594ab85594caa28e1a96cbe0d8, type: 3}
+  m_Name: Tutorial Welcome Page
+  m_EditorClassIdentifier: 
+  m_Image: {fileID: 2800000, guid: 549be0f16a5474349a51978160784157, type: 3}
+  m_WindowTitle:
+    m_Untranslated: Auto Showroom Sample Template (Beta)
+  m_Title:
+    m_Untranslated: Auto Showroom Sample Template (Beta)
+  m_Description:
+    m_Untranslated: "Welcome to the beta version of the Auto Showroom Sample Template!\r\n\r\nThis
+      template provides a starting point for:\r\n\n\u2022 Technical artists in automotive
+      and gaming\r\n\u2022 Visualization specialists in automotive, transportation,
+      and manufacturing\r\n\u2022 3D generalists who want to work with the High Definition
+      Render Pipeline and physically based lighting in Unity. \r\n\r\nExplore the
+      tutorials to learn more about the template!\r\n"
+  m_Buttons:
+  - Text:
+      m_Untranslated: Start tutorials (recommended)
+    Tooltip:
+      m_Untranslated: 
+    OnClick:
+      m_PersistentCalls:
+        m_Calls:
+        - m_Target: {fileID: 11400000}
+          m_MethodName: StartTutorial
+          m_Mode: 1
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 0
+          m_CallState: 1
+  - Text:
+      m_Untranslated: Close
+    Tooltip:
+      m_Untranslated: 
+    OnClick:
+      m_PersistentCalls:
+        m_Calls:
+        - m_Target: {fileID: 11400000}
+          m_MethodName: CloseCurrentModalDialog
+          m_Mode: 1
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 0
+          m_CallState: 1

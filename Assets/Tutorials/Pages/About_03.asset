@@ -1,0 +1,144 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ff771ccdf4150419d9ff4d342b069aae, type: 3}
+  m_Name: About_03
+  m_EditorClassIdentifier: 
+  m_Paragraphs:
+    m_Items:
+    - m_Type: 6
+      Title:
+        m_Untranslated: 
+      Text:
+        m_Untranslated: 
+      m_Summary: 
+      m_Description: 
+      m_InstructionBoxTitle: 
+      m_InstructionText: 
+      m_TutorialButtonText: 
+      m_Tutorial: {fileID: 0}
+      m_Icons:
+        m_Items: []
+      m_Image: {fileID: 2800000, guid: ae82c134d02134e99bd2027aca0899c4, type: 3}
+      m_Video: {fileID: 0}
+      m_CriteriaCompletion: 0
+      m_Criteria:
+        m_Items: []
+      m_MaskingSettings:
+        m_MaskingEnabled: 1
+        m_UnmaskedViews:
+        - m_SelectorType: 0
+          m_ViewType:
+            m_TypeName: UnityEditor.MaximizedHostView, UnityEditor, Version=0.0.0.0,
+              Culture=neutral, PublicKeyToken=null
+          m_EditorWindowType:
+            m_TypeName: 
+          m_AlternateEditorWindowTypes:
+            m_Items: []
+          m_MaskType: 0
+          m_MaskSizeModifier: 0
+          m_UnmaskedControls:
+          - m_SelectorMode: 0
+            m_GUIContent:
+              m_Text: 
+              m_Image: {fileID: 0}
+              m_Tooltip: 
+            m_ControlName: 
+            m_PropertyPath: 
+            m_TargetType:
+              m_TypeName: 
+            m_GUIStyleName: 
+            m_ObjectReference:
+              m_SceneObjectReference:
+                m_SceneGuid: 
+                m_GameObjectGuid: 
+                m_SerializedComponentType:
+                  m_TypeName: 
+                m_ComponentIndex: 0
+                m_AssetObject: {fileID: 0}
+                m_Prefab: {fileID: 0}
+              m_FutureObjectReference: {fileID: 0}
+    - m_Type: 0
+      Title:
+        m_Untranslated: Auto Showroom Sample Template (Beta)
+      Text:
+        m_Untranslated: "The showroom is set up with physically correct lighting
+          through the use of light props and correct exposure setting simulating
+          a daytime interior. The scene also features 3 lighting themes that are
+          frequently used for vehicle presentation that you can use to understand
+          the process of achieving the lighting within those themes, or to serve
+          as ready made settings for your own vehicles and products. \r\n\r\nA sample
+          car, the <b>Volvo XC40 Recharge</b>, is also provided within the scene
+          with proper setup and scripts to serve as an example of how a vehicle can
+          be staged to create high quality visuals in a real-time environment.\r"
+      m_Summary: 
+      m_Description: 
+      m_InstructionBoxTitle: 
+      m_InstructionText: 
+      m_TutorialButtonText: 
+      m_Tutorial: {fileID: 0}
+      m_Icons:
+        m_Items: []
+      m_Image: {fileID: 0}
+      m_Video: {fileID: 0}
+      m_CriteriaCompletion: 0
+      m_Criteria:
+        m_Items: []
+      m_MaskingSettings:
+        m_MaskingEnabled: 0
+        m_UnmaskedViews: []
+  m_CameraSettings:
+    m_CameraMode: 1
+    m_FocusMode: 0
+    m_Orthographic: 0
+    m_Size: 8.985983
+    m_Pivot: {x: -10.916502, y: 2.7906384, z: 4.049903}
+    m_Rotation: {x: 0.026175495, y: 0.55193084, z: 0.017336722, w: -0.8333041}
+    m_FrameObject:
+      m_SceneGuid: 
+      m_GameObjectGuid: 
+      m_SerializedComponentType:
+        m_TypeName: 
+      m_ComponentIndex: 0
+      m_AssetObject: {fileID: 0}
+      m_Prefab: {fileID: 0}
+    m_Enabled: 0
+  NextButton:
+    m_Untranslated: Next
+  DoneButton:
+    m_Untranslated: Done
+  m_NextButton: 
+  m_DoneButton: 
+  m_CompletedSound: {fileID: 8300000, guid: 93fbb109633e844259ea828442bda0cb, type: 3}
+  m_autoAdvance: 0
+  m_OnBeforePageShown:
+    m_PersistentCalls:
+      m_Calls: []
+  m_OnAfterPageShown:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 11400000, guid: 743fc35f8da11d34ca3ef73a7c5ccdaa, type: 2}
+        m_MethodName: LoadScenes
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 1
+  m_OnBeforeTutorialQuit:
+    m_PersistentCalls:
+      m_Calls: []
+  m_OnTutorialPageStay:
+    m_PersistentCalls:
+      m_Calls: []

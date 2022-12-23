@@ -1,0 +1,44 @@
+{
+    "MonoBehaviour": {
+        "m_Enabled": true,
+        "m_EditorHideFlags": 0,
+        "m_Name": "",
+        "m_EditorClassIdentifier": "Unity.Formats.Fbx.Editor:UnityEditor.Formats.Fbx.Exporter:ExportSettings",
+        "ExportOutsideProject": true,
+        "Verbose": false,
+        "launchAfterInstallation": true,
+        "HideSendToUnityMenu": true,
+        "BakeAnimation": true,
+        "showConvertToPrefabDialog": true,
+        "integrationSavePath": "C:\\Plastic\\Templates-ContentTemplate_03_AutoShowroom",
+        "selectedDCCApp": 0,
+        "prefabSavePaths": [
+            "."
+        ],
+        "fbxSavePaths": [
+            "C:/Users/elliott.cottell/Desktop/New folder (28)",
+            "C:/Users/elliott.cottell/Desktop/New folder (25)",
+            "C:/Users/elliott.cottell/Desktop/New folder (20)",
+            "C:/Users/elliott.cottell/Desktop/New folder (18)",
+            "."
+        ],
+        "selectedFbxPath": 0,
+        "selectedPrefabPath": 0,
+        "dccOptionNames": [],
+        "dccOptionPaths": [],
+        "exportModelSettingsSerialize": {
+            "exportFormat": 0,
+            "animatedSkinnedMesh": false,
+            "mayaCompatibleNaming": true,
+            "include": 2,
+            "lodLevel": 0,
+            "objectPosition": 0,
+            "exportUnrendered": true
+        },
+        "convertToPrefabSettingsSerialize": {
+            "exportFormat": 0,
+            "animatedSkinnedMesh": false,
+            "mayaCompatibleNaming": true
+        }
+    }
+}
