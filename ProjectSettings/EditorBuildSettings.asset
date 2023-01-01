@@ -17,4 +17,6 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Showroom_Lighting_Theme_LightInstallation.unity
     guid: a5ea2f9a519063b4f99da59c31b46501
-  m_configObjects: {}
+  m_configObjects:
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: d582e1287aad14c4d8eadf3f46124198,
+      type: 2}
